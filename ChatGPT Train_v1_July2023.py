@@ -1,7 +1,9 @@
+#Access GPT 4 via API
+
 import openai
 print('hello')
 
-api_key = "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"
+api_key = "sk-sjTp9PDt" #INsert the api key which you can find it in openai.com
 openai.api_key = api_key
 
 def chat_with_gpt3(prompt):
