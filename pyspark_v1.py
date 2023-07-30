@@ -3,7 +3,7 @@ from pyspark.sql import SparkSession
 from pyspark.ml.fpm import PrefixSpan
 
 # build a SparkConf object that contains information about your application
-conf = SparkConf().setAppName("Spark shell").setMaster("local[*]")  # replace with your app name and master
+conf = SparkConf().setAppName("shell").setMaster("local[*]")  # app name and master
 sc = SparkContext(conf=conf)
 spark = SparkSession(sc)
 
