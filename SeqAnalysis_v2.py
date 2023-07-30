@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 
 # Load log data from a file (assuming log_data.txt contains the log entries)
 log_data = []
-with open('log_data.txt', 'r') as file:
+with open('data.txt', 'r') as file:
     for line in file:
         timestamp, log_text = line.strip().split('\t')
         log_data.append(log_text)
