@@ -4,7 +4,7 @@ from pyspark.sql.functions import col, explode, array, collect_list
 
 
 spark = SparkSession.builder \
-    .appName("Spark shell") \
+    .appName("shell") \
     .getOrCreate()
 
 # Original data
