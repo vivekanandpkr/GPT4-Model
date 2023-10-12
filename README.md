@@ -6,3 +6,7 @@ Few of its applications:
 - Sequence Pattern Mining (from big data using pyspark or LSTM models)
 - ML/DL Applications
 - Custom GPT (AI Assistant)
+
+
+Thanks to Visual Capitalist:
+![image](https://github.com/vivekanandpkr/GPT4---Basic-AI-Bot/assets/21027388/35ed54a9-cf2f-41a7-8c5b-5d506b8130b8)
