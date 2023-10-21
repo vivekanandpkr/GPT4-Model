@@ -10,3 +10,12 @@ Few of its applications:
   
 
 
+Some of my favorate AI Generated DALL-E Output:
+
+**_Watercolor painting of a man in a cozy Austrian cafe, deeply engrossed in his laptop, surrounded by data analytics books and coffee_**
+![image](https://github.com/vivekanandpkr/GPT4-Model/assets/21027388/1d48f0cc-e937-4d59-b01a-cd8bc8ff9cf5)
+
+
+![image](https://github.com/vivekanandpkr/GPT4-Model/assets/21027388/46bc4340-506e-4726-a151-f43da6a78eec)
+
+
