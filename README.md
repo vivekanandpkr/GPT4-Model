@@ -6,7 +6,7 @@ Few of its applications:
 - Sequence Pattern Mining (from big data using pyspark or LSTM models)
 - ML/DL Applications
 - Custom GPT (AI Assistant)
-- Twitter Sentiment Analysis
+- Sentiment Analysis
   
 
 
