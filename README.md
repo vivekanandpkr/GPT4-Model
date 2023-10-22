@@ -19,7 +19,7 @@ Some of my favorate AI Generated DALL-E Output:
 
 
 
-**_Watercolor painting of a man in humble attire, selling handmade crafts in a bustling European market, with dreams of success reflected in his eyes._**
+**_Watercolor painting of a man in humble attire, selling handmade crafts in a bustling European market, with optimistic view reflected in his eyes._**
 
 ![image](https://github.com/vivekanandpkr/GPT4-Model/assets/21027388/a6ea6910-1525-4b82-8e53-3d3d9878965d)
 
