@@ -20,7 +20,7 @@ Some of my favorate AI Generated DALL-E Output:
 
 **DALL-E Model Architecture and how does it Works ?**
 
-Work in-progress. 
+Work in-progress. We will decode it for sure.
 
 
 
