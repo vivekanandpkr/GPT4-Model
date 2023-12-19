@@ -7,21 +7,14 @@ Few of its applications:
 - ML/DL Applications
 - Custom GPT (AI Assistant)
 - Sentiment Analysis
+- AI Laws: It is our responsibility to ensure AI has been utilized in a right way, for the benifit of humanity, and in a right direction. 
   
-
-
 Some of my favorate AI Generated DALL-E Output:
 
 **_Watercolor painting of a man in a cozy cafe, deeply engrossed in his laptop, surrounded by data analytics results and coffee_**
 
 ![image](https://github.com/vivekanandpkr/GPT4-Model/assets/21027388/1d48f0cc-e937-4d59-b01a-cd8bc8ff9cf5)
 
-
-
 **DALL-E Model Architecture and how does it Works ?**
 
-To learn the Model Workings.
-
-
-
-
+To learn the model workings.
