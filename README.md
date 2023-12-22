@@ -6,8 +6,7 @@ Few of its applications:
 - Sequence Pattern Mining (from big data using pyspark or LSTM models)
 - ML/DL Applications
 - Custom GPT (AI Assistant)
-- Sentiment Analysis
-- To improve efficiency 
+- To improve Efficiency 
 - Scalablity & Better Automation 
   
 Some of my favorate AI Generated DALL-E Output:
