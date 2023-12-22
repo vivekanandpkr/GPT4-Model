@@ -7,7 +7,8 @@ Few of its applications:
 - ML/DL Applications
 - Custom GPT (AI Assistant)
 - Sentiment Analysis
-- AI Laws: It is our responsibility to ensure AI has been utilized in a right way, for the benifit of humanity, and in a right direction. 
+- To improve efficiency 
+- Scalablity & Better Automation 
   
 Some of my favorate AI Generated DALL-E Output:
 
