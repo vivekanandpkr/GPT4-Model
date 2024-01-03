@@ -3,7 +3,7 @@
 import openai
 print('hello')
 
-api_key = "sk-sjTp9PDt" #INsert the api key which you can find it in openai.com
+api_key = "sk-sjTp9PDtyyyyyyyyyy" #INsert the api key which you can find it in openai.com
 openai.api_key = api_key
 
 def chat_with_gpt3(prompt):
@@ -17,6 +17,6 @@ def chat_with_gpt3(prompt):
     return response.choices[0].text.strip()
 
 # Example usage:
-user_input = "Hello, ChatGPT!"
+user_input = "Hey GPT, What are all the efficient ways that we can use AI for the benifit of humanity and how does quantum computer works ?.!"
 response = chat_with_gpt3(user_input)
 print(response)
